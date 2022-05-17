@@ -1,2 +1,2 @@
-# my first project
+# personal profile page project
  Profile Page Assignment
