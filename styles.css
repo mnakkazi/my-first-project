@@ -7,7 +7,7 @@
     margin: 0;
     padding: 0;
     text-align: center;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Nunito', sans-serif;
     color: #222;
     background: #f7f5f0;
   }
@@ -119,6 +119,11 @@
   .skills li:nth-child(odd) {
     background: #75a3a3;
   }
+
+  .interests li {
+    list-style: none;
+    margin-bottom: 1rem;
+  }
   
   footer {
     width: 100%;
@@ -187,8 +192,8 @@
     main {
       padding-top: 40px;
       padding-bottom: 40px;
-      background: #ff99c2;
-      border-radius: 20px;
+      background: #f4d0df;
+      border-radius: 15px;
     }
   
     main p {
